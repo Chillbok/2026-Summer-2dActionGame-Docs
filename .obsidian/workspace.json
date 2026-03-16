@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "91734e92f9edf3b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "70f1b1df9340350f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d20d66c0caee8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63e94e314d17f2f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c038d783be16d34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d670a2a51b0dd312",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "4047c5e96123e45e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vscode",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "8a0a3b5b7e4cec30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b45cf3c3a3eb0e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "571dcf591776f06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "689a5ec23ac727e4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1. zettelkasten/1. Fleeting Note/Terminated, Zombie State.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 4,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0.6,
+                  "nodeSizeMultiplier": 0.603611111111111,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.138804606146842,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Terminated, Zombie State 그래프"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d1d568d493c320ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "773e7935ae79312e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. zettelkasten/1. Fleeting Note/Terminated, Zombie State.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terminated, Zombie State 의 백링크"
+            }
+          },
+          {
+            "id": "15dc3ada60c49f9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. zettelkasten/1. Fleeting Note/Terminated, Zombie State.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Terminated, Zombie State 의 나가는 링크"
+            }
+          },
+          {
+            "id": "b9bf5c1681841b28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "365906b74f6dd66c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "69b85b08a075619d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:무작위 노트 열기": false,
+      "audio-recorder:녹음 시작/정지": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "71d20d66c0caee8b",
+  "lastOpenFiles": [
+    "100. Data/Assets/Pasted image 20260316123658.png",
+    "1. zettelkasten/1. Fleeting Note/Terminated, Zombie State.md",
+    "1. zettelkasten/1. Fleeting Note/프로세스의 상태.md",
+    "1. zettelkasten/1. Fleeting Note/Suspended State.md",
+    "100. Data/Assets/Pasted image 20260316123626.png",
+    "1. zettelkasten/1. Fleeting Note/Blocked, asleep State.md",
+    "100. Data/Assets/Pasted image 20260316123603.png",
+    "1. zettelkasten/1. Fleeting Note/Running State.md",
+    "100. Data/Assets/Pasted image 20260316123518.png",
+    "1. zettelkasten/1. Fleeting Note/Ready State.md",
+    "100. Data/Assets/Pasted image 20260316123443.png",
+    "1. zettelkasten/1. Fleeting Note/Created State.md",
+    "100. Data/Assets/Pasted image 20260316123400.png",
+    "1. zettelkasten/1. Fleeting Note/process state transition diagram.md",
+    "100. Data/Assets/Pasted image 20260316123118.png",
+    "100. Data/Assets/Pasted image 20260316120845.png",
+    "100. Data/Assets/Pasted image 20260316115944.png",
+    "1. zettelkasten/1. Fleeting Note/PCB가 관리하는 정보.md",
+    "100. Data/Assets/Pasted image 20260316114618.png",
+    "1. zettelkasten/1. Fleeting Note/PCB란.md",
+    "1. zettelkasten/1. Fleeting Note/커널(Kernel).md",
+    "1. zettelkasten/1. Fleeting Note/프로세스의 종류.md",
+    "1. zettelkasten/1. Fleeting Note/프로세스(process)란.md",
+    "1. zettelkasten/1. Fleeting Note/운영체제의 기능.md",
+    "100. Data/Assets/Pasted image 20260316114113.png",
+    "1. zettelkasten/1. Fleeting Note/작업과 프로세스의 차이.md",
+    "1. zettelkasten/1. Fleeting Note/운영체제의 파일 관리 기능.md",
+    "1. zettelkasten/1. Fleeting Note/운영체제의 메모리 관리 기능.md",
+    "1. zettelkasten/1. Fleeting Note/운영체제의 프로세스 관리 기능.md",
+    "1. zettelkasten/1. Fleeting Note/파일이란.md",
+    "Home.md",
+    "1. zettelkasten/1. Fleeting Note/구조체란(cpp).md",
+    "1. zettelkasten/1. Fleeting Note/실무적인 분야에서의 구조체와 클래스 구분.md",
+    "100. Data/Legacy2/0. Zettelkasten/2. 문헌 노트/게임 밸런스 기획(QA) 툴 kalivra.md",
+    "1. zettelkasten/1. Fleeting Note/using namespace std를 사용하는 것이 권장되지 않는 이유.md",
+    "1. zettelkasten/1. Fleeting Note/터미널 git에서 한글 숫자로 보이는 문제 해결법.md",
+    "2. PARA/1. Project/알고리즘및실습 과목 공부.base",
+    "2. PARA/3. Resource/macOS 사용법.base",
+    "2. PARA/1. Project/cpp 공부.base",
+    "2. PARA/1. Project/운영체제 과목 공부.base",
+    "2. PARA/1. Project/주식 투자 공부.base",
+    "2. PARA/3. Resource/ai-generated.base",
+    "2. PARA/3. Resource/게임 기획.base",
+    "2. PARA/2. Area/개인 주식 투자 기록.base",
+    "무제.canvas",
+    "2. PARA/3. Resource/cSharp 사용법.base",
+    "2. PARA/3. Resource/게임 리뷰.base"
+  ]
+}

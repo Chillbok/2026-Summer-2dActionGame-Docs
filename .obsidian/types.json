@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date&time": "datetime",
+    "PARA": "multitext",
+    "주제": "multitext",
+    "created": "datetime"
+  }
+}
