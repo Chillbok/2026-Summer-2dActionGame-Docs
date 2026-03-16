@@ -3,4 +3,4 @@ views:
     name: 표
     filters:
       and:
-        - file.tags.contains("기획문서")
+        - note["문서 유형"].contains("아이디어 문서")
